@@ -28,11 +28,11 @@ En dicha asignación se dará conocer el origen y definición del Cloud Computin
 
 ## Modelos de Servicio
 
-### IaaS: Infraestructura como servicio (Infrastructure as a Service)
+### IaaS: Infraestructura como servicio
 
-### SaaS: Software como servicio (Software as a Service)
+### SaaS: Software como servicio
 
-### PaaS: Plataforma como servicio (Platform as a Service)
+### PaaS: Plataforma como servicio
 
 ## Comparativa de Proveedores
 
