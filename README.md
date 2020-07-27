@@ -5,11 +5,9 @@ Este es una trabajo de investigación del curso de Algoritmos y Estructuras de D
 
 Desarrollado por:
 
-Garro Campos Carlos Akión.
-Granados Marín Jose Ignacio.
-Santamaría Ramírez Josué Gabriel.
+Garro Campos Carlos Akión.                                                                                                                                                Granados Marín Jose Ignacio.                                                                                                                                             Santamaría Ramírez Josué Gabriel.
 
-  En dicha asignación se dará conocer el origen y defición de la Computación en la Nube así como sus conceptos básicos, modelos de despligue y modelos de servicio. Asimismo, se mostrará una comparativa entre tres principales provedores de Cloud Computing según su oferta general, posicionamiento en el mercado y beneficios para los desarrolladores.
+En dicha asignación se dará conocer el origen y defición de la Computación en la Nube así como sus conceptos básicos, modelos de despligue y modelos de servicio. Asimismo, se mostrará una comparativa entre tres principales provedores de Cloud Computing según su oferta general, posicionamiento en el mercado y beneficios para los desarrolladores.
 
 ### Markdown
 
