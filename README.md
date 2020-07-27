@@ -1,8 +1,14 @@
-## Welcome to Datos 1
+## Computación en la Nube
 
-You can use the [editor on GitHub](https://github.com/NachoGranados/ITCR.DATOS1.Investigacion/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Este es una trabajo de investigación del curso de Algoritmos y Estructuras de Datos I de la carrera de Ingeniería en Computadores del Instituto Tecnológico de Costa Rica.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Desarrollado por:
+
+Garro Campos Carlos Akión
+Granados Marín Jose Ignacio
+Santamaría Ramírez Josué Gabriel
+
+En dicha asignación se dará conocer el origen y defición de la Computación en la Nube así como sus conceptos básicos, modelos de despligue y modelos de servicio. Asimismo, se mostrará una comparativa entre tres principales provedores de Cloud Computing según su oferta general, posicionamiento en el mercado y beneficios para los desarrolladores.
 
 ### Markdown
 
@@ -10,9 +16,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 
 
-# Header 1
+## Header 1
 ## Header 2
-### Header 3
+## Header 3
 
 Cloud computing is an amazing tool for code developers.!!!
 
