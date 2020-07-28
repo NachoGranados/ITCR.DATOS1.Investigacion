@@ -47,6 +47,8 @@ Falta...
 * Demostrar el funcionamiento de la computación en la nube a través de una aplicación sencilla.
 
 
+![](https://github.com/NachoGranados/ITCR.DATOS1.Investigacion/blob/master/Cloud%20Computing%202.png)
+
 ## Antecedentes
 La computación en la nube es considerada como una de las herramientas más útiles empleadas, en la actualidad, por grandes empresas de Tecnologías de Información. Se pensará que dichos servicios fueron creados recientemente; sin embargo, el origen de la computación en la nube se remonta en la década de 1960. Diversas fuentes afirman que fue John McCarthy quien introdujo, por primera vez, el concepto de computación en la nube en 1961, así como también presentó el modelo de Inteligencia Artificial. Otros autores mencionan que Joseph Carl Robnett Licklider fue quien propuso la idea de mantener interconectados a diversos usuarios por medio del acceso numerosa información a través de múltiples programas desde cualquier parte del mundo.
 
@@ -130,6 +132,8 @@ Este modelo es exclusivo para sectores de la población, como el uso exclusivo d
 #### Híbrido
 Es cuando se combinan ambas infraestructuras del cloud privado y público para que trabajen como un único servicio, en donde se pueden cambiar de un modelo a otro por motivos de capacidad y otros temporalmente. También permite acceso a recursos por periodos más cortos de tiempo que tienen problemas recurrentes o servicios que no están en producción sino, en periodos de prueba o desarrollo.
 
+
+![](https://github.com/NachoGranados/ITCR.DATOS1.Investigacion/blob/master/Cloud%20Computing%204.png)
 
 ### Modelos de Servicio
 
