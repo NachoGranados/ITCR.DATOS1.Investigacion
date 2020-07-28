@@ -43,7 +43,7 @@ Falta...
 
 
 ## Antecedentes
-El Cloud Computing es considerada como una de las herramientas más útiles empleadas, en la actualidad, por grandes empresas de Tecnologías de Información. Se pensará que dichos servicios fueron creados recientemente; sin embargo, el origen del Cloud Computing se remonta en la década de 1960. Diversas fuentes afirman que fue John McCarthy quien introdujo, por primera vez, el concepto de Cloud Computing en 1961, así como también presentó el modelo de Inteligencia Artificial. Otros autores mencionan que Joseph Carl Robnett Licklider fue quien propuso la idea de mantener interconectados a diversos usuarios por medio del acceso numerosa información a través de múltiples programas desde cualquier parte del mundo.
+La computación en la nube es considerada como una de las herramientas más útiles empleadas, en la actualidad, por grandes empresas de Tecnologías de Información. Se pensará que dichos servicios fueron creados recientemente; sin embargo, el origen de la computación en la nube se remonta en la década de 1960. Diversas fuentes afirman que fue John McCarthy quien introdujo, por primera vez, el concepto de computación en la nube en 1961, así como también presentó el modelo de Inteligencia Artificial. Otros autores mencionan que Joseph Carl Robnett Licklider fue quien propuso la idea de mantener interconectados a diversos usuarios por medio del acceso numerosa información a través de múltiples programas desde cualquier parte del mundo.
 
   
 Retomando la década de los años 60, gran cantidad de empresas se vieron forzadas a investigar el desarrollo de una CPU capaz de permitir el acceso a múltiples usuarios al mismo tiempo debido a las excesivas cantidades de información que eran solicitadas desde diversos puntos de acceso. John McCarthy fue el primero en proponer una solución a dicho problema. La tecnología de tiempo compartido consistía en servicio público computacional, que podía ser adquirido por medio de un tarifa fija, como lo es agua y la luz. Por lo que múltiples empresas, alrededor del mundo, dieron comienzo al desarrollo y alquiler de recursos compartidos como servicios de cómputo por un tiempo determinado.
@@ -52,23 +52,23 @@ Retomando la década de los años 60, gran cantidad de empresas se vieron forzad
 Licklider, en 1969, expuso las redes intergalácticas de computación como una forma de compartir los diversos programas informáticos con las demás personas. Sin embargo, dicha propuesta fue descartada hasta finales de los años 90 debido a que la red de Internet de es época, era capaz de soportar el ancho de banda de la nube.
 
 
-En 1999, un gran avance para el Cloud Computing fue la inaguración de la empresa estadounidense Salesforce encargada del desarrollo de software la cual ofrecía servicios a las diversas empresas para realizar un seguimiento computacional de sus clientes. Desde ese momento y hasta el día de hoy, las grandes compañías informáticas consumen servicios de Cloud Computing, así como también se dedican al desarrollo o creación de nuevos servicios para los diferentes tipos de nubes que existen en la actualidad.
+En 1999, un gran avance para la computación en la nube fue la inaguración de la empresa estadounidense Salesforce encargada del desarrollo de software la cual ofrecía servicios a las diversas empresas para realizar un seguimiento computacional de sus clientes. Desde ese momento y hasta el día de hoy, las grandes compañías informáticas consumen servicios de computación en la nube, así como también se dedican al desarrollo o creación de nuevos servicios para los diferentes tipos de nubes que existen en la actualidad.
 
 
 ## Marco Teórico
 
 
 ### Definición
-El Cloud Computing ha llegado para revolucionar las Tecnologías de Información, a través de múltiples servicios web capaces de mejor la autonomía, economía, eficiencia, eficacia, versatilidad, productividad, y crecimiento continuo de las de las empresas y organizaciones encargadas del desarrollo de hardware y software.
+La computación en la nube ha llegado para revolucionar las Tecnologías de Información, a través de múltiples servicios web capaces de mejor la autonomía, economía, eficiencia, eficacia, versatilidad, productividad, y crecimiento continuo de las de las empresas y organizaciones encargadas del desarrollo de hardware y software.
 
 
-El Instituto Nacional de Normas y Tecnología (NIST: National Institute of Standards and Technology) define el concepto de Cloud Computing como un modelo informático capaz de brindar el acceso a recursos de computación configurable (como redes, servidores, almacenamiento, aplicaciones, servicios web, entre muchos otros) que se puede disponer rápidamente con una adecuada gestión e interacción entre el proveedor del servicio y el cliente.
+El Instituto Nacional de Normas y Tecnología (NIST: National Institute of Standards and Technology) define el concepto de computación en la nube como un modelo informático capaz de brindar el acceso a recursos de computación configurable (como redes, servidores, almacenamiento, aplicaciones, servicios web, entre muchos otros) que se puede disponer rápidamente con una adecuada gestión e interacción entre el proveedor del servicio y el cliente.
 
 
 Cuando se habla de nube se hace referencia a un conjunto informático de hardware y software, bases de datos, almacenamiento, redes, interfaces, análisis de inteligencia a través de Internet. Uno de sus principales objetivos es ofrecer una alta y rápida innovación de recursos flexibles para diversas economías de escala. Los principales protagonistas de estos medios informáticos son los proveedores o vendedores, los cuales proporcionan, crean y facilitan servicios y aplicaciones que pueden ser utilizadas por diversos clientes alrededor del mundo. Asimismo, quienes adquieren dichas tecnologías son conocidos como los líderes de negocios, cuyo trabajo consiste en el análisis, evaluación e implementación de los determinados servicios dentro de sus organizaciones y empresas. 
 
 
-Una de las principales finalidades del Cloud Computing es la reducción de costos de computación con un considerable incremento en la flexibilidad y confiabilidad de los recursos web por medio de la compra o alquiler de medios informáticos operados por una tercera parte externa a la empresa u organización.
+Una de las principales finalidades de la computación en la nube es la reducción de costos de computación con un considerable incremento en la flexibilidad y confiabilidad de los recursos web por medio de la compra o alquiler de medios informáticos operados por una tercera parte externa a la empresa u organización.
 
 
 ### Conceptos Básicos
