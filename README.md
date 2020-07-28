@@ -32,6 +32,7 @@ Falta...
 
 ## Objetivos
 
+
 ### Objetivo General
 * Investigar acerca del conocimiento que posee la población estudiantil del Instituto Tecnológico de Costa Rica en el área de la computación en la nube.
 
@@ -109,6 +110,7 @@ Comúnmente se utiliza para representar las direcciones web, este es una combina
 
 ### Modelos de Despliegue
 
+
 #### Público
 Es un servicio el cual se encuentra disponible para el público en general ofrecido por algún proveedor específico el cuál brinda el servicio sin ningún costo, en donde el proveedor es el poseedor de los recursos de hardware y es el encargado de toda la gestión del cloud, también se ofrecen suscripciones para usuarios empresas y otros.
 
@@ -122,6 +124,7 @@ Es cuando se combinan ambas infraestructuras del cloud privado y público para q
 
 
 ### Modelos de Servicio
+
 
 #### Servicios Ofrecidos en la Nube
 Existe  una  jerarquía  de  servicios  que  se  pueden  ofrecer  en  la  nube,  de  acuerdo  con  el  grado  de abstracción y tercerización que requiera la entidad usuaria. 
