@@ -28,7 +28,7 @@ Falta...
 La presente investigación se enfocará en estudiar el conocimiento que poseen los estudiantes de Instituto Tecnológico de Costa Rica acerca de la computación en la nube debido que, en los últimos años, dicha área de la informática ha impulsado grandes empresas y organizaciones gracias a su completo y vigoroso funcionamiento, además de su amplia disponibilidad de recursos para gran cantidad de usuarios alrededor del mundo. Asimismo, se busca incentivar el aprendizaje y búsqueda de información de dicha rama de la computación ya que, en múltiples ocasiones, las personas requieren y utilizan numerosos servicios web sin saber el funcionamiento de los mismos. Por esta razón, se promueve que las compañías e industrias computacionales instruyan, de manera concisa y eficaz, a sus clientes en la utilización de estos medios con el objetivo de educar a la población en diversos temas de interés. Así como también, obtener un mayor provecho de los servicios adquiridos.
 
 
-![](https://github.com/NachoGranados/ITCR.DATOS1.Investigacion/blob/master/Cloud%20Computing%201.jpg)
+![](https://github.com/NachoGranados/ITCR.DATOS1.Investigacion/blob/master/Cloud%20Computing%205.png)
 
 ## Introducción
 Falta...
@@ -47,7 +47,7 @@ Falta...
 * Demostrar el funcionamiento de la computación en la nube a través de una aplicación sencilla.
 
 
-![](https://github.com/NachoGranados/ITCR.DATOS1.Investigacion/blob/master/Cloud%20Computing%202.png)
+![](https://github.com/NachoGranados/ITCR.DATOS1.Investigacion/blob/master/Cloud%20Computing%201.jpg)
 
 ## Antecedentes
 La computación en la nube es considerada como una de las herramientas más útiles empleadas, en la actualidad, por grandes empresas de Tecnologías de Información. Se pensará que dichos servicios fueron creados recientemente; sin embargo, el origen de la computación en la nube se remonta en la década de 1960. Diversas fuentes afirman que fue John McCarthy quien introdujo, por primera vez, el concepto de computación en la nube en 1961, así como también presentó el modelo de Inteligencia Artificial. Otros autores mencionan que Joseph Carl Robnett Licklider fue quien propuso la idea de mantener interconectados a diversos usuarios por medio del acceso numerosa información a través de múltiples programas desde cualquier parte del mundo.
