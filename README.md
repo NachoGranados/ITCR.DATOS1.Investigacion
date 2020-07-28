@@ -12,6 +12,33 @@ Santamaría Ramírez Josué Gabriel.
 
 En dicha asignación se dará conocer el origen y definición del Cloud Computing así como sus conceptos básicos, modelos de despligue y modelos de servicio. Asimismo, se mostrará una comparativa entre tres principales provedores según su oferta general, posicionamiento en el mercado y beneficios para los desarrolladores.
 
+
+## Introducción
+## Descripción del Problema
+## Marco Teórico
+## Análisis de Resultados
+## Conclusiones
+## Recomendaciones
+## Referencias
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Definición
 
 ## Origen e Historia
