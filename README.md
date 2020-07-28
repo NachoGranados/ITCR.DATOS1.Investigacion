@@ -175,7 +175,7 @@ Es la capa inferior de servicio, este modelo ofrece espacio de almacenamiento, c
 * No
 
 
-3)¿Utiliza usted aplicaciones como gmail, google drive, youtube, facebook, one drive, dropbox?
+3. ¿Utiliza usted aplicaciones como gmail, google drive, youtube, facebook, one drive, dropbox?
 * Sí
 * No
 
@@ -186,12 +186,12 @@ Es la capa inferior de servicio, este modelo ofrece espacio de almacenamiento, c
 * Conozco un poco acerca del tema pero no a profundidad
 
 
-5)¿Conoce algunos proveedores de computación en la nube en Costa Rica?
+5. ¿Conoce algunos proveedores de computación en la nube en Costa Rica?
 * Sí
 * No
 * Conozco algunos
 
 
-6)¿Considera usted que la computación en la nube es importante para el futuro de las tecnologías de información?
+6. ¿Considera usted que la computación en la nube es importante para el futuro de las tecnologías de información?
 * Sí
 * No
