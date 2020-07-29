@@ -21,7 +21,7 @@ Conocimiento de la población estudiantil del Instituto Tecnológico de Costa Ri
 
 
 ## Descripción del Problema
-Falta...
+La computación en la nube es una tecnología relativamente reciente, razón por la cual, gran cantidad de personas y usuarios de redes de internet, no conocen acerca de esta rama tan importante de la informática a pesar de los amplios beneficios que esta conlleva. Estos medios de información han satisfecho grandes compañías alrededor del mundo, al punto de la necesidad de migrar y adquirir dichos servicios computacionales para un eficaz crecimiento de la empresa en las áreas técnica, ciencia y tecnología. La computación en la nube amplía sus fronteras a pasos agigantados, por lo que es de suma importancia dar conocer y concientizar en las personas acerca de estos numerosos recursos, sus componentes y utilidades que se obtienen al incorporarla a nuestro diario vivir. 
 
 
 ## Justificación
@@ -173,6 +173,76 @@ Es la capa inferior de servicio, este modelo ofrece espacio de almacenamiento, c
 ### Análisis de la Encuesta
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Tablas Comparativas sobre de los Proveedores más Relevantes de la Computación en la Nube.
 
 
@@ -201,6 +271,14 @@ Tabla 1: Comparación sobre los beneficios obtenidos por los tres grandes provee
 | Desarrollo de juegos (herramientas basadas en la nube) | GameLift / Lumberyard                                                                                                   | Visual Studio                                                                                                                                                                                                                                                   | --------------                                             |
 | Acceso programático                                    | Interfaz de línea de comandos                                                                                           | Interfaz de línea de comandos (CLI) de Azure / Azure PowerShell                                                                                                                                                                                                 | Cloud Shell                                                |
 | Devops                                                 | AWS CodeBuild / AWS Cloud9 / AWS Code Star / AWS CodeCommit / AWS CodeDeploy / AWS CodePipeline / AWS X-Ray             | Visual Studio Team Services / Proyectos de VSTS                                                                                                                                                                                                                 | Repositorios de origen en la nube/  Compilación en la nube |
+
+Tabla 2: Comparación sobre las herramientas de desarrollo de los proveedores de servicios de la computación en la nube. 
+
+
+Respecto comparación sobre los beneficios obtenidos  por los tres grandes proveedores de servicios se puede visualizar que AWS tiene gran cantidad de sistemas operativos y ofrece una variedad un poco más amplia que los demás proveedores, pero también se tiene que tomar en cuenta que el precio mensual es el más elevado respecto a los demás, entonces dependiendo de las necesidades del cliente y algunas otras características importantes específicas de cada uno de los proveedores, van a optar por obtener el servicio de AWS. Por otra parte tenemos a Google Cloud Platform que respecto a los otros proveedores es el más limitado en los sistemas operativos pero, por otra parte se debe de tomar en cuenta que este proveedor es el más económico de estos tres. 
+
+
+Las herramientas de desarrollo de los  proveedores de servicios de la computación en la nube son de suma importancia  y en algunos casos son determinantes para la elección de un proveedor de servicio u otro. Y por medio de la información obtenida se puede observar que los dos proveedores que cuentan con mayor variedad de herramientas de desarrollo son AWS y Microsoft Azure, pero como anteriormente se mencionaba a la hora de elegir un proveedor de servicios se deben de evaluar varios aspectos importantes como lo son el conjunto de características y beneficios de cada uno de los proveedores. Por lo que se afirmar que a pesar de la variedad de características la elección de un proveedor de servicio va a depender de las necesidades y presupuesto del cliente.
 
 
 ## Conclusiones
