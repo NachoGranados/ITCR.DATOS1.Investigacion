@@ -1,7 +1,7 @@
 ![](https://github.com/NachoGranados/ITCR.DATOS1.Investigacion/blob/master/Imagenes/Nube1.jpg)
 
-# Computación en la Nube
 
+# Computación en la Nube
 Este es un trabajo de investigación del I Semestre del 2020 del curso de Algoritmos y Estructuras de Datos I de la carrera de Ingeniería en Computadores del Instituto Tecnológico de Costa Rica a cargo del profesor Jose Isaac Ramírez Herrera.
 
 Desarrollado por:
@@ -11,6 +11,7 @@ Desarrollado por:
 * Granados Marín Jose Ignacio (2018319698).
 
 * Santamaría Ramírez Josué Gabriel (2019052250).
+
 
 ## Tema
 Conocimiento de la población estudiantil del Instituto Tecnológico de Costa Rica en el área de la computación en la nube.
@@ -173,74 +174,43 @@ Es la capa inferior de servicio, este modelo ofrece espacio de almacenamiento, c
 ### Análisis de la Encuesta
 
 
+Se planteó una encuesta que consistió de seis preguntas enfocadas en analizar el conocimiento de la población estudiantil encuestada acerca de la computación en la nube. Dicho cuestionario se centró en obtener cierta información de un reducido grupo de 15 personas y comprender sus nociones acerca del tema en investigación.
 
 
+Se inició por una pregunta con el fin de determinar si el encuestado ha escuchado alguna información de la computación en la nube, a partir de la cual se obtuvo como resultado que un 40% se encuentran familiarizados con el tema, un 33.3% no ha escuchado acerca de esta rama de la computación y un 26.7% posee una noción mínima del significado pero no está seguro (a) de cuánto conoce al respecto.
 
 
+![](https://github.com/NachoGranados/ITCR.DATOS1.Investigacion/blob/master/Encuesta/Encuesta1.jpg)
 
 
+La siguiente pregunta fue dirigida específicamente al conocimiento de los encuestados acerca del conocimiento de los servicios otorgados por estos medios tecnológicos tan utilizados en la actualidad. Como se puede observar en el gráfico, que un 66.7% de la comunidad estudiantil no posee noción alguna acerca de dichos recursos. Asimismo, un 33.3% afirma conocer estos servicios computacionales.
 
 
+![](https://github.com/NachoGranados/ITCR.DATOS1.Investigacion/blob/master/Encuesta/Encuesta2.jpg)
 
 
+Seguido de esto, se planteó un enfoque diferente, comparado con las preguntas anteriores, en el cual se buscó familiarizar a los encuestados con información mucho menos conceptual, así como lo fue el análisis del uso cotidiano de diversas aplicaciones que requieren de servicios de computación en la nube. Tal y como fue esperado, el 100% de población confirmó el uso de estas aplicaciones.
 
 
+![](https://github.com/NachoGranados/ITCR.DATOS1.Investigacion/blob/master/Encuesta/Encuesta3.jpg)
 
 
+Una vez corroborado lo anterior, se procedió a afirmar que las múltiples aplicaciones que los usuarios utilizan diariamente, consumen este tipo de tecnologías de información. Analizado el siguiente gráfico, se obtuvo que un 26.7% no se encuentra enterado (a) del cómo estas aplicaciones trabajan. El 46.7% de los encuestados mencionó que posee un mínimo conocimiento, mas no el suficiente para detallar el tema. Además, un 26,7% de la muestra garantiza estar familiarizado con el funcionamiento de las aplicaciones mencionadas.
 
 
+![](https://github.com/NachoGranados/ITCR.DATOS1.Investigacion/blob/master/Encuesta/Encuesta4.jpg)
 
 
+Con base en la pregunta anterior, se propuso indagar qué parte de la población estudiantil posee una noción de algunos de los proveedores más frecuentes empleados por diversas empresas y organizaciones con diversos fines. El gráfico muestra que un 13.3% mostró que los proveedores de determinados servicios, son de su conocimiento, mientras que un 60% indicó todo lo contrario. Asimismo, un 26.7% presenta una noción de cuáles podrían ser dichos prestadores o vendedores de servicios web en nuestro país.
 
 
+![](https://github.com/NachoGranados/ITCR.DATOS1.Investigacion/blob/master/Encuesta/Encuesta5.jpg)
 
 
+Finalmente, como era esperar, el 100% de las personas se encuentra de acuerdo a que la computación en la nube representa un gran pilar para los futuros avances en las tecnologías de información.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![](https://github.com/NachoGranados/ITCR.DATOS1.Investigacion/blob/master/Encuesta/Encuesta6.jpg)
 
 
 ### Tablas Comparativas sobre de los Proveedores más Relevantes de la Computación en la Nube.
@@ -289,7 +259,7 @@ Las herramientas de desarrollo de los  proveedores de servicios de la computaci�
 
 * La encuesta realizada demostró que el conocimiento de los estudiantes del Instituto Tecnológico de Costa Rica acerca de la computación en la nube, es diverso, donde se encontró que la mayoría de las personas utilizan gran cantidad de aplicaciones diariamente, sin percatarse del uso de la computación en la nube que estas involucran.
 
-* 
+* La adquisición de numerosos conocimientos teóricos de la computación en la nube, permitió el diseño, creación, implementación y ejemplificación del uso cotidiano de esta novedosa tecnología.
 
 
 ## Recomendaciones
