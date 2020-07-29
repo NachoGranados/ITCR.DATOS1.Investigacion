@@ -1,4 +1,4 @@
-![](https://github.com/NachoGranados/ITCR.DATOS1.Investigacion/blob/master/Imagenes/Nube1.jpg)
+![Tec](https://github.com/NachoGranados/ITCR.DATOS1.Investigacion/blob/master/Imagenes/Nube1.jpg "teclogo!")
 
 
 # Computación en la Nube
