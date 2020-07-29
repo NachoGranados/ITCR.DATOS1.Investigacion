@@ -233,40 +233,40 @@ Es la capa inferior de servicio, este modelo ofrece espacio de almacenamiento, c
 ### Análisis de la Encuesta
 
 
-Se planteó una encuesta que consistió de seis preguntas enfocadas en analizar el conocimiento de la población estudiantil encuestada acerca de la computación en la nube. Dicho cuestionario se centró en obtener cierta información de un reducido grupo de 15 personas y comprender sus nociones acerca del tema en investigación.
+Se planteó una encuesta que consistió de seis preguntas enfocadas en analizar el conocimiento de la población estudiantil acerca de la computación en la nube. Dicho cuestionario se centró en obtener cierta información de un reducido grupo de 40 personas y comprender sus nociones acerca del tema en investigación.
 
 
-Se inició por una pregunta con el fin de determinar si el encuestado ha escuchado alguna información de la computación en la nube, a partir de la cual se obtuvo como resultado que un 40% se encuentran familiarizados con el tema, un 33.3% no ha escuchado acerca de esta rama de la computación y un 26.7% posee una noción mínima del significado pero no está seguro (a) de cuánto conoce al respecto.
+Se inició con una pregunta que determinará si el encuestado ha escuchado alguna información sobre la computación en la nube, a partir de la cual se obtuvo como resultado que un 40% se encuentran familiarizados con el tema, un 35% no ha escuchado acerca de esta rama de la computación y un 25% posee una noción mínima del significado pero no está seguro de cuánto conoce al respecto.
 
 
 ![](https://github.com/NachoGranados/ITCR.DATOS1.Investigacion/blob/master/Encuesta/Encuesta1.jpg)
 
 
-La siguiente pregunta fue dirigida específicamente al conocimiento de los encuestados acerca del conocimiento de los servicios otorgados por estos medios tecnológicos tan utilizados en la actualidad. Como se puede observar en el gráfico, que un 66.7% de la comunidad estudiantil no posee noción alguna acerca de dichos recursos. Asimismo, un 33.3% afirma conocer estos servicios computacionales.
+La siguiente pregunta fue dirigida específicamente al conocimiento de los encuestados acerca de los servicios otorgados por estos medios tecnológicos tan utilizados en la actualidad. Como se puede observar en el gráfico, que un 65% de la comunidad estudiantil no posee noción alguna acerca de dichos recursos. Asimismo, un 35% afirma conocer estos servicios computacionales.
 
 
 ![](https://github.com/NachoGranados/ITCR.DATOS1.Investigacion/blob/master/Encuesta/Encuesta2.jpg)
 
 
-Seguido de esto, se planteó un enfoque diferente, comparado con las preguntas anteriores, en el cual se buscó familiarizar a los encuestados con información mucho menos conceptual, así como lo fue el análisis del uso cotidiano de diversas aplicaciones que requieren de servicios de computación en la nube. Tal y como fue esperado, el 100% de población confirmó el uso de estas aplicaciones.
+Seguido de esto, se planteó un enfoque diferente, comparado con las preguntas anteriores, en el cual se buscó familiarizar a los encuestados con información mucho menos conceptual, así como lo fue el análisis del uso cotidiano de diversas aplicaciones que requieren de servicios de computación en la nube. Tal y como fue esperado, la gran mayoría de la muestra estudiantil, con 97.5% de respuestas a favor, afirmaron que las aplicaciones mencionadas anteriormente, forman parte de sus medios tecnológicos cotidianos mientras que un 2.5% no utilizan dichos recursos.
 
 
 ![](https://github.com/NachoGranados/ITCR.DATOS1.Investigacion/blob/master/Encuesta/Encuesta3.jpg)
 
 
-Una vez corroborado lo anterior, se procedió a afirmar que las múltiples aplicaciones que los usuarios utilizan diariamente, consumen este tipo de tecnologías de información. Analizado el siguiente gráfico, se obtuvo que un 26.7% no se encuentra enterado (a) del cómo estas aplicaciones trabajan. El 46.7% de los encuestados mencionó que posee un mínimo conocimiento, mas no el suficiente para detallar el tema. Además, un 26,7% de la muestra garantiza estar familiarizado con el funcionamiento de las aplicaciones mencionadas.
+Una vez corroborado lo anterior, se procedió a afirmar que las múltiples aplicaciones que los usuarios utilizan diariamente, consumen este tipo de tecnologías de información. Analizado el siguiente gráfico, se obtuvo que un 30% no se encuentran enterados de cómo estas aplicaciones trabajan. El 37.5% de los encuestados mencionó que posee un mínimo conocimiento, mas no el suficiente para detallar el tema. A su vez, un 32.5% de la muestra garantiza estar familiarizado con el funcionamiento de las aplicaciones mencionadas.
 
 
 ![](https://github.com/NachoGranados/ITCR.DATOS1.Investigacion/blob/master/Encuesta/Encuesta4.jpg)
 
 
-Con base en la pregunta anterior, se propuso indagar qué parte de la población estudiantil posee una noción de algunos de los proveedores más frecuentes empleados por diversas empresas y organizaciones con diversos fines. El gráfico muestra que un 13.3% mostró que los proveedores de determinados servicios, son de su conocimiento, mientras que un 60% indicó todo lo contrario. Asimismo, un 26.7% presenta una noción de cuáles podrían ser dichos prestadores o vendedores de servicios web en nuestro país.
+Con base en la pregunta anterior, se propuso indagar qué parte de la población estudiantil posee una noción de algunos de los proveedores más frecuentes empleados por diversas empresas y organizaciones con determinados fines. El gráfico muestra que un 10% de la población estudiantil mencionó que los proveedores de determinados servicios, son de su conocimiento, mientras que un 80% indicó todo lo contrario. Asimismo, un 10% presenta una noción de cuáles podrían ser dichos prestadores o vendedores de servicios web en nuestro país.
 
 
 ![](https://github.com/NachoGranados/ITCR.DATOS1.Investigacion/blob/master/Encuesta/Encuesta5.jpg)
 
 
-Finalmente, como era esperar, el 100% de las personas se encuentra de acuerdo a que la computación en la nube representa un gran pilar para los futuros avances en las tecnologías de información.
+Finalmente, como era esperar, un 95% de las personas se encuentran de acuerdo a que la computación en la nube representa un gran pilar para los futuros avances en las tecnologías de información. Y a su vez, un 5% posee un criterio contrario al resto de la población respecto a la pregunta planteada.
 
 
 ![](https://github.com/NachoGranados/ITCR.DATOS1.Investigacion/blob/master/Encuesta/Encuesta6.jpg)
