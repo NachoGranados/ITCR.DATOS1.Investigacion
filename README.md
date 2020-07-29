@@ -172,6 +172,10 @@ Es la capa inferior de servicio, este modelo ofrece espacio de almacenamiento, c
 
 ### Análisis de la Encuesta
 
+
+### Tablas Comparativas sobre de los Proveedores más Relevantes de la Computación en la Nube.
+
+
 |                 Proveedor                 |                                                 Amazon Web Services                                                 |                                        Microsoft Azure                                        |                              Google Cloud Platform                              |
 |:-----------------------------------------:|:-------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------:|
 |       Posicionamiento en el mercado       |                                                   Primera posición                                                  |                                        Segunda posición                                       |                                 Tercera posición                                |
@@ -183,55 +187,20 @@ Es la capa inferior de servicio, este modelo ofrece espacio de almacenamiento, c
 | Precio del servicio por mes               | $225                                                                                                                | $159                                                                                          | $126                                                                            |
 
 
+Tabla 1: Comparación sobre los beneficios obtenidos por los tres grandes proveedores de servicios de la computación en la nube y sus respectivos precios. 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### Tablas Comparativas sobre de los Proveedores más Relevantes de la Computación en la Nube.
+|                        Proveedor                       | Amazon Web Services                                                                                                     | Microsoft Azure                                                                                                                                                                                                                                                 | Google Cloud Platform                                      |
+|:------------------------------------------------------:|-------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------|
+| Correo electrónico                                     | Servicio de correo electrónico simple (SES)                                                                             | Marketplace – Correo electrónico                                                                                                                                                                                                                                | --------------                                             |
+| Programación                                           | --------------                                                                                                          | Programador de Azure                                                                                                                                                                                                                                            | --------------                                             |
+| Transcodificación / codificación de medios             | Transcodificador Elástico / Elemental MediaLive                                                                         | Servicios de medios de Codificación de Azure                                                                                                                                                                                                                    | --------------                                             |
+| Mensajería y análisis de datos                         | Servicio de cola simple (SQS) / Amazon MQ                                                                               | Almacenamiento en cola de Azure / Azure Service Bus / Azure Event Hubs                                                                                                                                                                                          | Google Cloud /  Pub/Sub                                    |
+| Desarrollo de aplicaciones y administración de API     | API Gateway / Elastic Beanstalk / AWS CodePipeline / CodeDeploy / CodeCommit / Herramientas para desarrolladores de AWS | API Management / Logic Apps / Aplicaciones web (servicio de aplicaciones) / Aplicaciones DE API (App Service) / Aplicaciones DE API (App Service) / Servicios en la nube / Visual Studio Team Services / PowerApps / Herramientas para desarrolladores de Azure | Puntos de conexión de Google Cloud                         |
+| Pruebas de aplicaciones                                | GRANJA de dispositivos de AWS                                                                                           | Azure DevTest Labs (backend) /  Xamarin Test Cloud (front-end)                                                                                                                                                                                                  | Laboratorio de pruebas en la nube                          |
+| Desarrollo de juegos (herramientas basadas en la nube) | GameLift / Lumberyard                                                                                                   | Visual Studio                                                                                                                                                                                                                                                   | --------------                                             |
+| Acceso programático                                    | Interfaz de línea de comandos                                                                                           | Interfaz de línea de comandos (CLI) de Azure / Azure PowerShell                                                                                                                                                                                                 | Cloud Shell                                                |
+| Devops                                                 | AWS CodeBuild / AWS Cloud9 / AWS Code Star / AWS CodeCommit / AWS CodeDeploy / AWS CodePipeline / AWS X-Ray             | Visual Studio Team Services / Proyectos de VSTS                                                                                                                                                                                                                 | Repositorios de origen en la nube/  Compilación en la nube |
 
 
 ## Conclusiones
