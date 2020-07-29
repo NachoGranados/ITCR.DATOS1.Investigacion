@@ -170,6 +170,70 @@ Es la capa inferior de servicio, este modelo ofrece espacio de almacenamiento, c
 ## Análisis de Resultados
 
 
+### Análisis de la Encuesta
+
+|                 Proveedor                 |                                                 Amazon Web Services                                                 |                                        Microsoft Azure                                        |                              Google Cloud Platform                              |
+|:-----------------------------------------:|:-------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------:|
+|       Posicionamiento en el mercado       |                                                   Primera posición                                                  |                                        Segunda posición                                       |                                 Tercera posición                                |
+|       Sistemas operativos soportados      | Windows / SLES / CentOS / CoreOS / RHEL / CloudLinux / OpenSUSE / FreeBSD / Ubuntu / Debian / Vyatta / Oracle Linux | Windows / SLES / CentOS / CoreOS / RHEL / OpenSUSE / FreeBSD / Ubuntu / Debian / Oracle Linux | Windows / SLES / CentOS / CoreOS / RHEL / OpenSUSE / FreeBSD / Ubuntu / Debian  |
+| Porcentaje de Tiempo de Actividad Mensual |                                                        99.99%                                                       |                 99.9% for Single Instance VM and 99.95% for multiple instances                |                                      99.99%                                     |
+| Porcentaje Máximo de Crédito por Servicio | 30%                                                                                                                 | 100%                                                                                          | 50%                                                                             |
+| Características de la configuración       | CPU: 4 / RAM: 8 GB / Almacenamiento: 1 TB / OS: Linux                                                               | CPU: 4 / RAM: 8 GB / Almacenamiento: 1 TB / OS: Linux                                         | CPU: 4 / RAM: 8 GB / Almacenamiento: 1 TB / OS: Linux                           |
+| Oferta de Cloud Hosting                   | EC2 c5.xlarge + 1 TB SSD EBS                                                                                        | Máquina virtual A4 v2                                                                         | Custom Machine 8 GB RAM / 4x CPUs                                               |
+| Precio del servicio por mes               | $225                                                                                                                | $159                                                                                          | $126                                                                            |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### Tablas Comparativas sobre de los Proveedores más Relevantes de la Computación en la Nube.
+
+
 ## Conclusiones
 
 
