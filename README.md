@@ -1,4 +1,4 @@
-![](https://github.com/NachoGranados/ITCR.DATOS1.Investigacion/blob/master/1.JPG)
+![](https://github.com/NachoGranados/ITCR.DATOS1.Investigacion/blob/master/Imagenes/Nube1.jpg)
 
 # Computación en la Nube
 
@@ -28,7 +28,7 @@ Falta...
 La presente investigación se enfocará en estudiar el conocimiento que poseen los estudiantes de Instituto Tecnológico de Costa Rica acerca de la computación en la nube debido que, en los últimos años, dicha área de la informática ha impulsado grandes empresas y organizaciones gracias a su completo y vigoroso funcionamiento, además de su amplia disponibilidad de recursos para gran cantidad de usuarios alrededor del mundo. Asimismo, se busca incentivar el aprendizaje y búsqueda de información de dicha rama de la computación ya que, en múltiples ocasiones, las personas requieren y utilizan numerosos servicios web sin saber el funcionamiento de los mismos. Por esta razón, se promueve que las compañías e industrias computacionales instruyan, de manera concisa y eficaz, a sus clientes en la utilización de estos medios con el objetivo de educar a la población en diversos temas de interés. Así como también, obtener un mayor provecho de los servicios adquiridos.
 
 
-![](https://github.com/NachoGranados/ITCR.DATOS1.Investigacion/blob/master/2.JPG)
+![](https://github.com/NachoGranados/ITCR.DATOS1.Investigacion/blob/master/Imagenes/Nube2.jpg)
 
 
 ## Introducción
@@ -50,7 +50,7 @@ La computación en la nube es un tema que, en los últimos años, ha tomado un g
 * Demostrar el funcionamiento de la computación en la nube a través de una aplicación sencilla.
 
 
-![](https://github.com/NachoGranados/ITCR.DATOS1.Investigacion/blob/master/3.JPG)
+![](https://github.com/NachoGranados/ITCR.DATOS1.Investigacion/blob/master/Imagenes/Nube3.jpg)
 
 
 ## Antecedentes
@@ -66,7 +66,7 @@ Licklider, en 1969, expuso las redes intergalácticas de computación como una f
 En 1999, un gran avance para la computación en la nube fue la inaguración de la empresa estadounidense Salesforce encargada del desarrollo de software la cual ofrecía servicios a las diversas empresas para realizar un seguimiento computacional de sus clientes. Desde ese momento y hasta el día de hoy, las grandes compañías informáticas consumen servicios de computación en la nube, así como también se dedican al desarrollo o creación de nuevos servicios para los diferentes tipos de nubes que existen en la actualidad.
 
 
-![](https://github.com/NachoGranados/ITCR.DATOS1.Investigacion/blob/master/4.JPG)
+![](https://github.com/NachoGranados/ITCR.DATOS1.Investigacion/blob/master/Imagenes/Nube4.jpg)
 
 
 ## Marco Teórico
@@ -121,7 +121,7 @@ Redes de entregas de contenido, son beneficiosas para alojar archivos grandes, c
 Comúnmente se utiliza para representar las direcciones web, este es una combinación alfanumérica la cual está asociado a una dirección física, con el fin de brindar mayor facilidad a la hora de acceder a un sitio, está formado por tres partes www.ejemplo.com.
 
 
-![](https://github.com/NachoGranados/ITCR.DATOS1.Investigacion/blob/master/5.JPG)
+![](https://github.com/NachoGranados/ITCR.DATOS1.Investigacion/blob/master/Imagenes/Nube5.jpg)
 
 
 ### Modelos de Despliegue
@@ -139,7 +139,7 @@ Este modelo es exclusivo para sectores de la población, como el uso exclusivo d
 Es cuando se combinan ambas infraestructuras del cloud privado y público para que trabajen como un único servicio, en donde se pueden cambiar de un modelo a otro por motivos de capacidad y otros temporalmente. También permite acceso a recursos por periodos más cortos de tiempo que tienen problemas recurrentes o servicios que no están en producción sino, en periodos de prueba o desarrollo.
 
 
-![Sexta Imagen](https://github.com/NachoGranados/ITCR.DATOS1.Investigacion/blob/master/6.JPG)
+![](https://github.com/NachoGranados/ITCR.DATOS1.Investigacion/blob/master/Imagenes/Nube6.jpg)
 
 ### Modelos de Servicio
 
