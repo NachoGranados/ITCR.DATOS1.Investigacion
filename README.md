@@ -1,4 +1,4 @@
-![Primer Imagen](https://github.com/NachoGranados/ITCR.DATOS1.Investigacion/blob/master/1.JPG)
+![](https://github.com/NachoGranados/ITCR.DATOS1.Investigacion/blob/master/1.JPG)
 
 # Computación en la Nube
 
@@ -28,10 +28,13 @@ Falta...
 La presente investigación se enfocará en estudiar el conocimiento que poseen los estudiantes de Instituto Tecnológico de Costa Rica acerca de la computación en la nube debido que, en los últimos años, dicha área de la informática ha impulsado grandes empresas y organizaciones gracias a su completo y vigoroso funcionamiento, además de su amplia disponibilidad de recursos para gran cantidad de usuarios alrededor del mundo. Asimismo, se busca incentivar el aprendizaje y búsqueda de información de dicha rama de la computación ya que, en múltiples ocasiones, las personas requieren y utilizan numerosos servicios web sin saber el funcionamiento de los mismos. Por esta razón, se promueve que las compañías e industrias computacionales instruyan, de manera concisa y eficaz, a sus clientes en la utilización de estos medios con el objetivo de educar a la población en diversos temas de interés. Así como también, obtener un mayor provecho de los servicios adquiridos.
 
 
-![Segunda Imagen](https://github.com/NachoGranados/ITCR.DATOS1.Investigacion/blob/master/2.JPG)
+![](https://github.com/NachoGranados/ITCR.DATOS1.Investigacion/blob/master/2.JPG)
+
 
 ## Introducción
-Falta...
+La computación en la nube es un tema que, en los últimos años, ha tomado un gran protagonismo en el sector empresarial, donde muchas compañías están migrando hacia esta nueva tecnología, que trae consigo una gran cantidad de beneficios para dichas empresas. De esta manera, la presente investigación tiene como fin la definición del panorama de la computación en la nube, junto con sus definiciones más relevantes. Asimismo, se pretende comprender el funcionamiento de los principales componentes, a través del diseño e implementación de una aplicación sencilla, donde se pueda ejemplificar, de manera correcta, el uso adecuado de la computación en la nube.
+	Por otra parte, se abordó determinado tema mediante la aplicación de una encuesta virtual a diversos miembros de la comunidad estudiantil del Instituto Tecnológico de Costa Rica acerca de su conocimiento respecto a esta rama de las tecnologías de información en estudio. Asimismo, se pretende ampliar el el uso dado a estos medios informáticos en la vida cotidiana, así como la importancia que representan estos recursos para las futuras innovaciones tecnologías.
+	Finalmente, se expusieron las principales características, beneficios y precios de los tres más grandes proveedores de servicios de la computación en la nube. Esto con el objetivo de analizar cuál de ellos es más conveniente para las actuales empresas, dependiendo de diversos factores como lo son los recursos, planes ofrecidos, herramientas de desarrollo, acceso a información, manejo de redes, comunicación cliente-proveedor, entre muchos otros.
 
 
 ## Objetivos
@@ -47,7 +50,8 @@ Falta...
 * Demostrar el funcionamiento de la computación en la nube a través de una aplicación sencilla.
 
 
-![Tercer Imagen](https://github.com/NachoGranados/ITCR.DATOS1.Investigacion/blob/master/3.JPG)
+![](https://github.com/NachoGranados/ITCR.DATOS1.Investigacion/blob/master/3.JPG)
+
 
 ## Antecedentes
 La computación en la nube es considerada como una de las herramientas más útiles empleadas, en la actualidad, por grandes empresas de Tecnologías de Información. Se pensará que dichos servicios fueron creados recientemente; sin embargo, el origen de la computación en la nube se remonta en la década de 1960. Diversas fuentes afirman que fue John McCarthy quien introdujo, por primera vez, el concepto de computación en la nube en 1961, así como también presentó el modelo de Inteligencia Artificial. Otros autores mencionan que Joseph Carl Robnett Licklider fue quien propuso la idea de mantener interconectados a diversos usuarios por medio del acceso numerosa información a través de múltiples programas desde cualquier parte del mundo.
@@ -62,7 +66,8 @@ Licklider, en 1969, expuso las redes intergalácticas de computación como una f
 En 1999, un gran avance para la computación en la nube fue la inaguración de la empresa estadounidense Salesforce encargada del desarrollo de software la cual ofrecía servicios a las diversas empresas para realizar un seguimiento computacional de sus clientes. Desde ese momento y hasta el día de hoy, las grandes compañías informáticas consumen servicios de computación en la nube, así como también se dedican al desarrollo o creación de nuevos servicios para los diferentes tipos de nubes que existen en la actualidad.
 
 
-![Cuarta Imagen](https://github.com/NachoGranados/ITCR.DATOS1.Investigacion/blob/master/4.JPG)
+![](https://github.com/NachoGranados/ITCR.DATOS1.Investigacion/blob/master/4.JPG)
+
 
 ## Marco Teórico
 
@@ -116,7 +121,8 @@ Redes de entregas de contenido, son beneficiosas para alojar archivos grandes, c
 Comúnmente se utiliza para representar las direcciones web, este es una combinación alfanumérica la cual está asociado a una dirección física, con el fin de brindar mayor facilidad a la hora de acceder a un sitio, está formado por tres partes www.ejemplo.com.
 
 
-![Qinta Imagen](https://github.com/NachoGranados/ITCR.DATOS1.Investigacion/blob/master/5.JPG)
+![](https://github.com/NachoGranados/ITCR.DATOS1.Investigacion/blob/master/5.JPG)
+
 
 ### Modelos de Despliegue
 
