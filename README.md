@@ -272,6 +272,7 @@ Tabla 1: Comparación sobre los beneficios obtenidos por los tres grandes provee
 | Acceso programático                                    | Interfaz de línea de comandos                                                                                           | Interfaz de línea de comandos (CLI) de Azure / Azure PowerShell                                                                                                                                                                                                 | Cloud Shell                                                |
 | Devops                                                 | AWS CodeBuild / AWS Cloud9 / AWS Code Star / AWS CodeCommit / AWS CodeDeploy / AWS CodePipeline / AWS X-Ray             | Visual Studio Team Services / Proyectos de VSTS                                                                                                                                                                                                                 | Repositorios de origen en la nube/  Compilación en la nube |
 
+
 Tabla 2: Comparación sobre las herramientas de desarrollo de los proveedores de servicios de la computación en la nube. 
 
 
@@ -289,6 +290,7 @@ Las herramientas de desarrollo de los  proveedores de servicios de la computaci�
 * La encuesta realizada demostró que el conocimiento de los estudiantes del Instituto Tecnológico de Costa Rica acerca de la computación en la nube, es diverso, donde se encontró que la mayoría de las personas utilizan gran cantidad de aplicaciones diariamente, sin percatarse del uso de la computación en la nube que estas involucran.
 
 * 
+
 
 ## Recomendaciones
 
