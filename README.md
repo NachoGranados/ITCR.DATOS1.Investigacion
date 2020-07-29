@@ -312,6 +312,8 @@ Las herramientas de desarrollo de los  proveedores de servicios de la computaci�
 
 
 ## Conclusiones
+
+
 * Los conceptos teóricos definidos anteriormente, fomentaron un amplio aprendizaje en los colaboradores de esta investigación respecto al panorama, funcionamiento, utilidad y aplicación general de la computación en la nube en el área de la Ingeniería en Computadores.
 
 * La encuesta realizada demostró que el conocimiento de los estudiantes del Instituto Tecnológico de Costa Rica acerca de la computación en la nube, es diverso, donde se encontró que la mayoría de las personas utilizan gran cantidad de aplicaciones diariamente, sin percatarse del uso de la computación en la nube que estas involucran.
@@ -320,6 +322,9 @@ Las herramientas de desarrollo de los  proveedores de servicios de la computaci�
 
 
 ## Recomendaciones
+
+
+Después de un profundo análisis de la encuesta, se logra visualizar cómo las personas poseen un escaso conocimiento acerca de la computación en la nube. A pesar de que, diariamente, utilizan diversas aplicaciones y páginas web que consumen dichos servicios, sin percatarse de los recursos que estas utilizan. Por lo que, se recomienda que las compañías, encargadas de brindar estos servicios, se comprometan a instruir a la población, con múltiples técnicas, que expongan, de manera simple y concisa, los conceptos básicos de estos medios informáticos. Esto con el fin de ampliar el conocimiento que presentan las personas acerca de estas tecnologías que forman parte de la vida cotidiana y futuro de las empresas.
 
 
 ## Referencias
