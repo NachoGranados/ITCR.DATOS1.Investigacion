@@ -1,4 +1,6 @@
 ![Instituto Tecnológico de Costa Rica](https://github.com/NachoGranados/ITCR.DATOS1.Investigacion/blob/master/Imagenes/Nube1.jpg)
+
+
 [Instituto Tecnológico de Costa Rica](https://github.com/NachoGranados/ITCR.DATOS1.Investigacion/blob/master/Imagenes/Nube1.jpg)
 
 
@@ -41,7 +43,9 @@ La presente investigación se enfocará en estudiar el conocimiento que poseen l
 
 
 ![Computación en la Nube 1](https://github.com/NachoGranados/ITCR.DATOS1.Investigacion/blob/master/Imagenes/Nube2.jpg)
-[Computación en la Nube 1](https://github.com/NachoGranados/ITCR.DATOS1.Investigacion/blob/master/Imagenes/Nube2.jpg)
+
+
+[Computación en la Nube](https://github.com/NachoGranados/ITCR.DATOS1.Investigacion/blob/master/Imagenes/Nube2.jpg)
 
 
 ## Introducción
@@ -76,7 +80,9 @@ Finalmente, se expusieron las principales características, beneficios y precios
 
 
 ![Computación en la Nube 2](https://github.com/NachoGranados/ITCR.DATOS1.Investigacion/blob/master/Imagenes/Nube3.jpg)
-[Computación en la Nube 2](https://github.com/NachoGranados/ITCR.DATOS1.Investigacion/blob/master/Imagenes/Nube3.jpg)
+
+
+[Computación en la Nube](https://github.com/NachoGranados/ITCR.DATOS1.Investigacion/blob/master/Imagenes/Nube3.jpg)
 
 
 ## Antecedentes
@@ -95,7 +101,9 @@ En 1999, un gran avance para la computación en la nube fue la inaguración de l
 
 
 ![Computación en la Nube 3](https://github.com/NachoGranados/ITCR.DATOS1.Investigacion/blob/master/Imagenes/Nube4.jpg)
-[Computación en la Nube 3](https://github.com/NachoGranados/ITCR.DATOS1.Investigacion/blob/master/Imagenes/Nube4.jpg)
+
+
+[Computación en la Nube](https://github.com/NachoGranados/ITCR.DATOS1.Investigacion/blob/master/Imagenes/Nube4.jpg)
 
 
 ## Marco Teórico
@@ -171,6 +179,8 @@ Comúnmente se utiliza para representar las direcciones web, este es una combina
 
 
 ![Modelos de Despliegue de la Computación en la Nube](https://github.com/NachoGranados/ITCR.DATOS1.Investigacion/blob/master/Imagenes/Nube5.jpg)
+
+
 [Modelos de Despliegue de la Computación en la Nube](https://github.com/NachoGranados/ITCR.DATOS1.Investigacion/blob/master/Imagenes/Nube5.jpg)
 
 
@@ -196,6 +206,8 @@ Es cuando se combinan ambas infraestructuras del cloud privado y público para q
 
 
 ![Modelos de Servivio de la Computación en la Nube](https://github.com/NachoGranados/ITCR.DATOS1.Investigacion/blob/master/Imagenes/Nube6.jpg)
+
+
 [Modelos de Servivio de la Computación en la Nube](https://github.com/NachoGranados/ITCR.DATOS1.Investigacion/blob/master/Imagenes/Nube6.jpg)
 
 
@@ -245,43 +257,55 @@ Se planteó una encuesta que consistió de seis preguntas enfocadas en analizar 
 Se inició con una pregunta que determinará si el encuestado ha escuchado alguna información sobre la computación en la nube, a partir de la cual se obtuvo como resultado que un 40% se encuentran familiarizados con el tema, un 35% no ha escuchado acerca de esta rama de la computación y un 25% posee una noción mínima del significado pero no está seguro de cuánto conoce al respecto.
 
 
-![Gráfico 1 de la Encuesta](https://github.com/NachoGranados/ITCR.DATOS1.Investigacion/blob/master/Encuesta/Encuesta1.jpg)
-[Gráfico 1 de la Encuesta](https://github.com/NachoGranados/ITCR.DATOS1.Investigacion/blob/master/Encuesta/Encuesta1.jpg)
+![Primer Gráfico de la Encuesta](https://github.com/NachoGranados/ITCR.DATOS1.Investigacion/blob/master/Encuesta/Encuesta1.jpg)
+
+
+[Primer Gráfico de la Encuesta](https://github.com/NachoGranados/ITCR.DATOS1.Investigacion/blob/master/Encuesta/Encuesta1.jpg)
 
 
 La siguiente pregunta fue dirigida específicamente al conocimiento de los encuestados acerca de los servicios otorgados por estos medios tecnológicos tan utilizados en la actualidad. Como se puede observar en el gráfico, que un 65% de la comunidad estudiantil no posee noción alguna acerca de dichos recursos. Asimismo, un 35% afirma conocer estos servicios computacionales.
 
 
-![Gráfico 2 de la Encuesta](https://github.com/NachoGranados/ITCR.DATOS1.Investigacion/blob/master/Encuesta/Encuesta2.jpg)
-[Gráfico 2 de la Encuesta](https://github.com/NachoGranados/ITCR.DATOS1.Investigacion/blob/master/Encuesta/Encuesta2.jpg)
+![Segundo Gráfico de la Encuesta](https://github.com/NachoGranados/ITCR.DATOS1.Investigacion/blob/master/Encuesta/Encuesta2.jpg)
+
+
+[Segundo Gráfico de la Encuesta](https://github.com/NachoGranados/ITCR.DATOS1.Investigacion/blob/master/Encuesta/Encuesta2.jpg)
 
 
 Seguido de esto, se planteó un enfoque diferente, comparado con las preguntas anteriores, en el cual se buscó familiarizar a los encuestados con información mucho menos conceptual, así como lo fue el análisis del uso cotidiano de diversas aplicaciones que requieren de servicios de computación en la nube. Tal y como fue esperado, la gran mayoría de la muestra estudiantil, con 97.5% de respuestas a favor, afirmaron que las aplicaciones mencionadas anteriormente, forman parte de sus medios tecnológicos cotidianos mientras que un 2.5% no utilizan dichos recursos.
 
 
-![Gráfico 3 de la Encuesta](https://github.com/NachoGranados/ITCR.DATOS1.Investigacion/blob/master/Encuesta/Encuesta3.jpg)
-[Gráfico 3 de la Encuesta](https://github.com/NachoGranados/ITCR.DATOS1.Investigacion/blob/master/Encuesta/Encuesta3.jpg)
+![Tercer Gráfico de la Encuesta](https://github.com/NachoGranados/ITCR.DATOS1.Investigacion/blob/master/Encuesta/Encuesta3.jpg)
+
+
+[Tercer Gráfico de la Encuesta](https://github.com/NachoGranados/ITCR.DATOS1.Investigacion/blob/master/Encuesta/Encuesta3.jpg)
 
 
 Una vez corroborado lo anterior, se procedió a afirmar que las múltiples aplicaciones que los usuarios utilizan diariamente, consumen este tipo de tecnologías de información. Analizado el siguiente gráfico, se obtuvo que un 30% no se encuentran enterados de cómo estas aplicaciones trabajan. El 37.5% de los encuestados mencionó que posee un mínimo conocimiento, mas no el suficiente para detallar el tema. A su vez, un 32.5% de la muestra garantiza estar familiarizado con el funcionamiento de las aplicaciones mencionadas.
 
 
-![Gráfico 4 de la Encuesta](https://github.com/NachoGranados/ITCR.DATOS1.Investigacion/blob/master/Encuesta/Encuesta4.jpg)
-[Gráfico 4 de la Encuesta](https://github.com/NachoGranados/ITCR.DATOS1.Investigacion/blob/master/Encuesta/Encuesta4.jpg)
+![Cuarto Gráfico de la Encuesta](https://github.com/NachoGranados/ITCR.DATOS1.Investigacion/blob/master/Encuesta/Encuesta4.jpg)
+
+
+[Cuarto Gráfico de la Encuesta](https://github.com/NachoGranados/ITCR.DATOS1.Investigacion/blob/master/Encuesta/Encuesta4.jpg)
 
 
 Con base en la pregunta anterior, se propuso indagar qué parte de la población estudiantil posee una noción de algunos de los proveedores más frecuentes empleados por diversas empresas y organizaciones con determinados fines. El gráfico muestra que un 10% de la población estudiantil mencionó que los proveedores de determinados servicios, son de su conocimiento, mientras que un 80% indicó todo lo contrario. Asimismo, un 10% presenta una noción de cuáles podrían ser dichos prestadores o vendedores de servicios web en nuestro país.
 
 
-![Gráfico 5 de la Encuesta](https://github.com/NachoGranados/ITCR.DATOS1.Investigacion/blob/master/Encuesta/Encuesta5.jpg)
-[Gráfico 5 de la Encuesta](https://github.com/NachoGranados/ITCR.DATOS1.Investigacion/blob/master/Encuesta/Encuesta5.jpg)
+![Quinto Gráfico de la Encuesta](https://github.com/NachoGranados/ITCR.DATOS1.Investigacion/blob/master/Encuesta/Encuesta5.jpg)
+
+
+[Quinto Gráfico de la Encuesta](https://github.com/NachoGranados/ITCR.DATOS1.Investigacion/blob/master/Encuesta/Encuesta5.jpg)
 
 
 Finalmente, como era esperar, un 95% de las personas se encuentran de acuerdo a que la computación en la nube representa un gran pilar para los futuros avances en las tecnologías de información. Y a su vez, un 5% posee un criterio contrario al resto de la población respecto a la pregunta planteada.
 
 
-![Gráfico 6 de la Encuesta](https://github.com/NachoGranados/ITCR.DATOS1.Investigacion/blob/master/Encuesta/Encuesta6.jpg)
-[Gráfico 6 de la Encuesta](https://github.com/NachoGranados/ITCR.DATOS1.Investigacion/blob/master/Encuesta/Encuesta6.jpg)
+![Sexto Gráfico de la Encuesta](https://github.com/NachoGranados/ITCR.DATOS1.Investigacion/blob/master/Encuesta/Encuesta6.jpg)
+
+
+[Sexto Gráfico de la Encuesta](https://github.com/NachoGranados/ITCR.DATOS1.Investigacion/blob/master/Encuesta/Encuesta6.jpg)
 
 
 ### Tablas Comparativas sobre de los Proveedores más Relevantes de la Computación en la Nube.
