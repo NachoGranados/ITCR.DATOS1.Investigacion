@@ -42,7 +42,7 @@ La computación en la nube es una tecnología relativamente reciente, razón por
 La presente investigación se enfocará en estudiar el conocimiento que poseen los estudiantes de Instituto Tecnológico de Costa Rica acerca de la computación en la nube debido que, en los últimos años, dicha área de la informática ha impulsado grandes empresas y organizaciones gracias a su completo y vigoroso funcionamiento, además de su amplia disponibilidad de recursos para gran cantidad de usuarios alrededor del mundo. Asimismo, se busca incentivar el aprendizaje y búsqueda de información de dicha rama de la computación ya que, en múltiples ocasiones, las personas requieren y utilizan numerosos servicios web sin saber el funcionamiento de los mismos. Por esta razón, se promueve que las compañías e industrias computacionales instruyan, de manera concisa y eficaz, a sus clientes en la utilización de estos medios con el objetivo de educar a la población en diversos temas de interés. Así como también, obtener un mayor provecho de los servicios adquiridos.
 
 
-![Computación en la Nube 1](https://github.com/NachoGranados/ITCR.DATOS1.Investigacion/blob/master/Imagenes/Nube2.jpg)
+![Computación en la Nube](https://github.com/NachoGranados/ITCR.DATOS1.Investigacion/blob/master/Imagenes/Nube2.jpg)
 
 
 [Computación en la Nube](https://github.com/NachoGranados/ITCR.DATOS1.Investigacion/blob/master/Imagenes/Nube2.jpg)
@@ -79,7 +79,7 @@ Finalmente, se expusieron las principales características, beneficios y precios
 * Demostrar el funcionamiento de la computación en la nube a través de una aplicación sencilla.
 
 
-![Computación en la Nube 2](https://github.com/NachoGranados/ITCR.DATOS1.Investigacion/blob/master/Imagenes/Nube3.jpg)
+![Computación en la Nube](https://github.com/NachoGranados/ITCR.DATOS1.Investigacion/blob/master/Imagenes/Nube3.jpg)
 
 
 [Computación en la Nube](https://github.com/NachoGranados/ITCR.DATOS1.Investigacion/blob/master/Imagenes/Nube3.jpg)
@@ -100,7 +100,7 @@ Licklider, en 1969, expuso las redes intergalácticas de computación como una f
 En 1999, un gran avance para la computación en la nube fue la inaguración de la empresa estadounidense Salesforce encargada del desarrollo de software la cual ofrecía servicios a las diversas empresas para realizar un seguimiento computacional de sus clientes. Desde ese momento y hasta el día de hoy, las grandes compañías informáticas consumen servicios de computación en la nube, así como también se dedican al desarrollo o creación de nuevos servicios para los diferentes tipos de nubes que existen en la actualidad. [1]
 
 
-![Computación en la Nube 3](https://github.com/NachoGranados/ITCR.DATOS1.Investigacion/blob/master/Imagenes/Nube4.jpg)
+![Computación en la Nube](https://github.com/NachoGranados/ITCR.DATOS1.Investigacion/blob/master/Imagenes/Nube4.jpg)
 
 
 [Computación en la Nube](https://github.com/NachoGranados/ITCR.DATOS1.Investigacion/blob/master/Imagenes/Nube4.jpg)
