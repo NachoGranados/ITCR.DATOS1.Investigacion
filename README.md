@@ -394,7 +394,7 @@ Después de un profundo análisis de la encuesta, se logra visualizar cómo las 
 [6] A.T. Velte, T. J. Velte, R. Elsenpeter, Cloud Computing: A Practical Approach, New York: McGraw Hill, 2010. Recuperado de: [Visitar](https://dl.acm.org/doi/book/10.5555/1594816)
 
 
-[7] E. Jones. Cuota de mercado de la nube – una mirada al ecosistema de la nube en 2020, marzo 2020. Recuperado de: [Visitar](https://kinsta.com/es/blog/cuota-de-mercado-de-la-nube/)
+[7] E. Jones. Cuota de mercado de la nube – una mirada al ecosistema de la nube en 2020, marzo 2020. Recuperado de: [Visitar](https://kinsta.com/es/blog/cuota-de-mercado-de-la-nube/). Recuperado de: [Visitar](http://faculty.winthrop.edu/domanm/csci411/Handouts/NIST.pdf)
 
 
 [8] J. Gupta.Cloud services comparison tool – AWS Vs Google Vs IBM Vs Microsoft, marzo 2020. Recuperado de: [Visitar](https://wire19.com/cloud-services-comparison-tool-aws-vs-google-vs-ibm-vs-microsoft/)
