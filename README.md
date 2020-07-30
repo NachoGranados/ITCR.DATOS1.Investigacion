@@ -354,9 +354,6 @@ Las herramientas de desarrollo de los  proveedores de servicios de la computaci�
 Se implementó una Aplicación de Servicios encargada de crear un servidor, mediante la incorporación un plan de servicios dentro de un paquete de recursos de Microsoft Azure. Dicha aplicación, permite visualizar, a través de una plataforma simple , una página web la cual permite añadir, editar y eliminar la información que se desee de manera que dicho medio, simule ser un conocido servicio web mediante un proyecto autogenerado de tipo html. Azure brinda la posibilidad de adquirir un licencia de 60 minutos gratis de consultas, la cual consiste en que por cada tiempo consumido en una llamada al servicio, esta decrementa la cantidad de tiempo restante de su consumo total diario.
 
 
-[!](https://github.com/NachoGranados/ITCR.DATOS1.Investigacion/blob/master/Video/PaaS.mp4)
-
-
 [Video Demostrativo de la Aplicación Paas](https://github.com/NachoGranados/ITCR.DATOS1.Investigacion/blob/master/Video/PaaS.mp4)
 
 
