@@ -335,16 +335,11 @@ Después de un profundo análisis de la encuesta, se logra visualizar cómo las 
 
 [2] Aguilar, L. J. (2012). Computación en la nube: Notas para una estrategia española en cloud computing. Revista del Instituto Español de Estudios Estratégicos, (00). Recuperado de: [Visitar](http://revista.ieee.es/article/view/406)
 
+
 [3] Gustavo, B. (2020). ¿Que es un hosting? Hosting web explicado para principiantes. Hostinger tutoriales. Recuperado de: [Visitar](https://www.hostinger.mx/tutoriales/que-es-un-hosting)
 
 
-
-
-
-
-
-
-[4] dominio
+[4] Conceptodefinicion.de, Redacción. ( Última edición:18 de julio del 2019). Definición de Dominio. Recuperado de: //conceptodefinicion.de/dominio/. Consultado el 29 de julio del 2020. Recuperado de: [Visitar](https://conceptodefinicion.de/dominio/)
 
 
 ## Anexos
