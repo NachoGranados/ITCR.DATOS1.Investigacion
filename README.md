@@ -376,13 +376,13 @@ Después de un profundo análisis de la encuesta, se logra visualizar cómo las 
 [3] Gustavo, B. (2020). ¿Que es un hosting? Hosting web explicado para principiantes. Hostinger tutoriales. Recuperado de: [Visitar](https://www.hostinger.mx/tutoriales/que-es-un-hosting)
 
 
-[4] Conceptodefinicion.de, Redacción. ( Última edición:18 de julio del 2019). Definición de Dominio. Recuperado de: Recuperado de: [Visitar](https://conceptodefinicion.de/dominio/)
+[4] Conceptodefinicion.de, Redacción. ( Última edición:18 de julio del 2019). Definición de Dominio. Recuperado de: [Visitar](https://conceptodefinicion.de/dominio/)
 
 
 [5] P. Mell, T. Grance, “The NIST Definition of Cloud Computing”, National Institute of Standards and Technology, NIST Special Publication 800-145, 2011. 
 
 
-[6] A.T. Velte, T. J. Velte, R. Elsenpeter, Cloud Computing: A Practical Approach, New York: McGraw Hill, 2010. 
+[6] A.T. Velte, T. J. Velte, R. Elsenpeter, Cloud Computing: A Practical Approach, New York: McGraw Hill, 2010. Recuperado de: [Visitar](https://dl.acm.org/doi/book/10.5555/1594816)
 
 
 [7] E. Jones. Cuota de mercado de la nube – una mirada al ecosistema de la nube en 2020, marzo 2020. Recuperado de: [Visitar](https://kinsta.com/es/blog/cuota-de-mercado-de-la-nube/)
