@@ -88,7 +88,7 @@ Retomando la década de los años 60, gran cantidad de empresas se vieron forzad
 Licklider, en 1969, expuso las redes intergalácticas de computación como una forma de compartir los diversos programas informáticos con las demás personas. Sin embargo, dicha propuesta fue descartada hasta finales de los años 90 debido a que la red de Internet de es época, era capaz de soportar el ancho de banda de la nube.
 
 
-En 1999, un gran avance para la computación en la nube fue la inaguración de la empresa estadounidense Salesforce encargada del desarrollo de software la cual ofrecía servicios a las diversas empresas para realizar un seguimiento computacional de sus clientes. Desde ese momento y hasta el día de hoy, las grandes compañías informáticas consumen servicios de computación en la nube, así como también se dedican al desarrollo o creación de nuevos servicios para los diferentes tipos de nubes que existen en la actualidad.
+En 1999, un gran avance para la computación en la nube fue la inaguración de la empresa estadounidense Salesforce encargada del desarrollo de software la cual ofrecía servicios a las diversas empresas para realizar un seguimiento computacional de sus clientes. Desde ese momento y hasta el día de hoy, las grandes compañías informáticas consumen servicios de computación en la nube, así como también se dedican al desarrollo o creación de nuevos servicios para los diferentes tipos de nubes que existen en la actualidad. [1]
 
 
 ![Computación en la Nube 3](https://github.com/NachoGranados/ITCR.DATOS1.Investigacion/blob/master/Imagenes/Nube4.jpg)
@@ -109,7 +109,7 @@ El Instituto Nacional de Normas y Tecnología (NIST: National Institute of Stand
 Cuando se habla de nube se hace referencia a un conjunto informático de hardware y software, bases de datos, almacenamiento, redes, interfaces, análisis de inteligencia a través de Internet. Uno de sus principales objetivos es ofrecer una alta y rápida innovación de recursos flexibles para diversas economías de escala. Los principales protagonistas de estos medios informáticos son los proveedores o vendedores, los cuales proporcionan, crean y facilitan servicios y aplicaciones que pueden ser utilizadas por diversos clientes alrededor del mundo. Asimismo, quienes adquieren dichas tecnologías son conocidos como los líderes de negocios, cuyo trabajo consiste en el análisis, evaluación e implementación de los determinados servicios dentro de sus organizaciones y empresas. 
 
 
-Una de las principales finalidades de la computación en la nube es la reducción de costos de computación con un considerable incremento en la flexibilidad y confiabilidad de los recursos web por medio de la compra o alquiler de medios informáticos operados por una tercera parte externa a la empresa u organización.
+Una de las principales finalidades de la computación en la nube es la reducción de costos de computación con un considerable incremento en la flexibilidad y confiabilidad de los recursos web por medio de la compra o alquiler de medios informáticos operados por una tercera parte externa a la empresa u organización. [1]
 
 
 ### Conceptos Básicos
@@ -151,19 +151,19 @@ Son servicios en la nube los cuales están diseñados para el manejo de volúmen
 #### CDNs
 
 
-Redes de entregas de contenido, son beneficiosas para alojar archivos grandes, como imágenes, videos. Un CDN entrega el contenido desde el centro de datos más cercano al usuario final, esto siendo entregas mucho más eficientes y rápidas. 
+Redes de entregas de contenido, son beneficiosas para alojar archivos grandes, como imágenes, videos. Un CDN entrega el contenido desde el centro de datos más cercano al usuario final, esto siendo entregas mucho más eficientes y rápidas. [2]
 
 
 #### Hosting
 
 
-  Servicio web que permite publicar un sitio o una aplicación web en internet, básicamente en lo que consiste es en alquilar un espacio en un servidor con el fin de poder acceder o dar acceso a lo que estamos publicando.
+  Servicio web que permite publicar un sitio o una aplicación web en internet, básicamente en lo que consiste es en alquilar un espacio en un servidor con el fin de poder acceder o dar acceso a lo que estamos publicando. [3]
 
 
 #### Dominio
 
 
-Comúnmente se utiliza para representar las direcciones web, este es una combinación alfanumérica la cual está asociado a una dirección física, con el fin de brindar mayor facilidad a la hora de acceder a un sitio, está formado por tres partes www.ejemplo.com.
+Comúnmente se utiliza para representar las direcciones web, este es una combinación alfanumérica la cual está asociado a una dirección física, con el fin de brindar mayor facilidad a la hora de acceder a un sitio, está formado por tres partes www.ejemplo.com. [4]
 
 
 ![Modelos de Despliegue de la Computación en la Nube](https://github.com/NachoGranados/ITCR.DATOS1.Investigacion/blob/master/Imagenes/Nube5.jpg)
@@ -187,7 +187,7 @@ Este modelo es exclusivo para sectores de la población, como el uso exclusivo d
 #### Híbrido
 
 
-Es cuando se combinan ambas infraestructuras del cloud privado y público para que trabajen como un único servicio, en donde se pueden cambiar de un modelo a otro por motivos de capacidad y otros temporalmente. También permite acceso a recursos por periodos más cortos de tiempo que tienen problemas recurrentes o servicios que no están en producción sino, en periodos de prueba o desarrollo.
+Es cuando se combinan ambas infraestructuras del cloud privado y público para que trabajen como un único servicio, en donde se pueden cambiar de un modelo a otro por motivos de capacidad y otros temporalmente. También permite acceso a recursos por periodos más cortos de tiempo que tienen problemas recurrentes o servicios que no están en producción sino, en periodos de prueba o desarrollo. [2]
 
 
 ![Modelos de Servivio de la Computación en la Nube](https://github.com/NachoGranados/ITCR.DATOS1.Investigacion/blob/master/Imagenes/Nube6.jpg)
@@ -328,6 +328,23 @@ Después de un profundo análisis de la encuesta, se logra visualizar cómo las 
 
 
 ## Referencias
+
+
+[1] López Jiménez, D. (2013). La" computación en la nube" o" cloud computing" examinada desde el ordenamiento jurídico español. Revista de derecho (Valparaíso), (40), 689-709. Recuperado de: [Visitar](https://scielo.conicyt.cl/scielo.php?pid=S0718-68512013000100021&script=sci_arttext&tlng=en)
+
+
+[2] Aguilar, L. J. (2012). Computación en la nube: Notas para una estrategia española en cloud computing. Revista del Instituto Español de Estudios Estratégicos, (00). Recuperado de: [Visitar](http://revista.ieee.es/article/view/406)
+
+[3] Gustavo, B. (2020). ¿Que es un hosting? Hosting web explicado para principiantes. Hostinger tutoriales. Recuperado de: [Visitar](https://www.hostinger.mx/tutoriales/que-es-un-hosting)
+
+
+
+
+
+
+
+
+[4] dominio
 
 
 ## Anexos
