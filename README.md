@@ -112,13 +112,13 @@ En 1999, un gran avance para la computación en la nube fue la inaguración de l
 ### Definición
 
 
-La computación en la nube ha llegado para revolucionar las Tecnologías de Información, a través de múltiples servicios web capaces de mejor la autonomía, economía, eficiencia, eficacia, versatilidad, productividad, y crecimiento continuo de las de las empresas y organizaciones encargadas del desarrollo de hardware y software.
+La computación en la nube ha llegado para revolucionar las Tecnologías de Información, a través de múltiples servicios web capaces de mejor la autonomía, economía, eficiencia, eficacia, versatilidad, productividad, y crecimiento continuo de las de las empresas y organizaciones encargadas del desarrollo de hardware y software. [1]
 
 
-El Instituto Nacional de Normas y Tecnología (NIST: National Institute of Standards and Technology) define el concepto de computación en la nube como un modelo informático capaz de brindar el acceso a recursos de computación configurable (como redes, servidores, almacenamiento, aplicaciones, servicios web, entre muchos otros) que se puede disponer rápidamente con una adecuada gestión e interacción entre el proveedor del servicio y el cliente.
+El Instituto Nacional de Normas y Tecnología (NIST: National Institute of Standards and Technology) define el concepto de computación en la nube como un modelo informático capaz de brindar el acceso a recursos de computación configurable (como redes, servidores, almacenamiento, aplicaciones, servicios web, entre muchos otros) que se puede disponer rápidamente con una adecuada gestión e interacción entre el proveedor del servicio y el cliente. [1]
 
 
-Cuando se habla de nube se hace referencia a un conjunto informático de hardware y software, bases de datos, almacenamiento, redes, interfaces, análisis de inteligencia a través de Internet. Uno de sus principales objetivos es ofrecer una alta y rápida innovación de recursos flexibles para diversas economías de escala. Los principales protagonistas de estos medios informáticos son los proveedores o vendedores, los cuales proporcionan, crean y facilitan servicios y aplicaciones que pueden ser utilizadas por diversos clientes alrededor del mundo. Asimismo, quienes adquieren dichas tecnologías son conocidos como los líderes de negocios, cuyo trabajo consiste en el análisis, evaluación e implementación de los determinados servicios dentro de sus organizaciones y empresas. 
+Cuando se habla de nube se hace referencia a un conjunto informático de hardware y software, bases de datos, almacenamiento, redes, interfaces, análisis de inteligencia a través de Internet. Uno de sus principales objetivos es ofrecer una alta y rápida innovación de recursos flexibles para diversas economías de escala. Los principales protagonistas de estos medios informáticos son los proveedores o vendedores, los cuales proporcionan, crean y facilitan servicios y aplicaciones que pueden ser utilizadas por diversos clientes alrededor del mundo. Asimismo, quienes adquieren dichas tecnologías son conocidos como los líderes de negocios, cuyo trabajo consiste en el análisis, evaluación e implementación de los determinados servicios dentro de sus organizaciones y empresas. [1]
 
 
 Una de las principales finalidades de la computación en la nube es la reducción de costos de computación con un considerable incremento en la flexibilidad y confiabilidad de los recursos web por medio de la compra o alquiler de medios informáticos operados por una tercera parte externa a la empresa u organización. [1]
@@ -127,37 +127,39 @@ Una de las principales finalidades de la computación en la nube es la reducció
 ### Conceptos Básicos
 
 
-La computación en la nube se conocía como Grid Computing el cual se enfoca principalmente en servidores virtuales, con el paso de los años se fue extendiendo el concepto de virtualización aumentando el nivel de abstracción de los servidores virtuales al inicio como plataformas virtuales y más adelante como aplicaciones virtuales. Con el paso de los años se conoció el termino Utility Computing que ofrecía clusters como plataformas virtuales lo que recientemente sería el término software como servicio (SaaS) esto llevando a niveles de virtualizaciones aún más grandes de las aplicaciones con modelos de negocio no recargado en recursos consumidos.
+La computación en la nube se conocía como Grid Computing el cual se enfoca principalmente en servidores virtuales, con el paso de los años se fue extendiendo el concepto de virtualización aumentando el nivel de abstracción de los servidores virtuales al inicio como plataformas virtuales y más adelante como aplicaciones virtuales. Con el paso de los años se conoció el termino Utility Computing que ofrecía clusters como plataformas virtuales lo que recientemente sería el término software como servicio (SaaS) esto llevando a niveles de virtualizaciones aún más grandes de las aplicaciones con modelos de negocio no recargado en recursos consumidos. [2]
 
 
 #### Aplicaciones en la Nube
 
 
-Son programas de software las cuales se encuentran a través de un servicio web y no localmente.
+Son programas de software las cuales se encuentran a través de un servicio web y no localmente. [2]
   
   
 #### Almacenamiento en la Nube
 
 
-Servicios web que permiten guardar datos sin consumir espacio localmente y con accesibilidad desde distintos puntos.
+Servicios web que permiten guardar datos sin consumir espacio localmente y con accesibilidad desde distintos puntos. [2]
 
 
 #### Migración de Servicio
 
 
-El proceso de pasar de un servicio en la nube o proveedor a otro. Dependencia de proveedor: Dependencia de un proveedor de nube específico, tal vez porque la falta de estándares comunes y tecnologías hacen que sea difícil migrar a un nuevo proveedor.
+El proceso de pasar de un servicio en la nube o proveedor a otro. Dependencia de proveedor: Dependencia de un proveedor de nube específico, tal vez porque la falta de estándares comunes y tecnologías hacen que sea difícil migrar a un nuevo proveedor. [2]
 
 
 #### Multiusuario
 
 
-Se refiere a la posibilidad de que un servicio pueda ser aprovechado por más de una persona a la vez, brindando características de interacción y manejo de datos de manera más sencilla y rápida.
+Se refiere a la posibilidad de que un servicio pueda ser aprovechado por más de una persona a la vez, brindando características de interacción y manejo de datos de manera más sencilla y rápida. [2]
+
 
 
 #### BigData
 
 
-Son servicios en la nube los cuales están diseñados para el manejo de volúmenes grandes de datos con el fin de almacenarlos o gestionarlos con más fácil y seguridad.
+Son servicios en la nube los cuales están diseñados para el manejo de volúmenes grandes de datos con el fin de almacenarlos o gestionarlos con más fácil y seguridad. [2]
+
 
 
 #### CDNs
@@ -190,13 +192,13 @@ Comúnmente se utiliza para representar las direcciones web, este es una combina
 #### Público
 
 
-Es un servicio el cual se encuentra disponible para el público en general ofrecido por algún proveedor específico el cuál brinda el servicio sin ningún costo, en donde el proveedor es el poseedor de los recursos de hardware y es el encargado de toda la gestión del cloud, también se ofrecen suscripciones para usuarios empresas y otros.
+Es un servicio el cual se encuentra disponible para el público en general ofrecido por algún proveedor específico el cuál brinda el servicio sin ningún costo, en donde el proveedor es el poseedor de los recursos de hardware y es el encargado de toda la gestión del cloud, también se ofrecen suscripciones para usuarios empresas y otros. [2]
 
 
 #### Privado
 
 
-Este modelo es exclusivo para sectores de la población, como el uso exclusivo dentro de una organización o para varios usuarios en donde la gestión del cloud es realizada por la propia organización o también si la organización quiere puede contratar compañías especializadas para que se encarguen de la gestión y operación del cloud.
+Este modelo es exclusivo para sectores de la población, como el uso exclusivo dentro de una organización o para varios usuarios en donde la gestión del cloud es realizada por la propia organización o también si la organización quiere puede contratar compañías especializadas para que se encarguen de la gestión y operación del cloud. [2]
 
 
 #### Híbrido
@@ -217,7 +219,7 @@ Es cuando se combinan ambas infraestructuras del cloud privado y público para q
 #### Servicios Ofrecidos en la Nube
 
 
-Existe  una  jerarquía  de  servicios  que  se  pueden  ofrecer  en  la  nube,  de  acuerdo  con  el  grado  de abstracción y tercerización que requiera la entidad usuaria. 
+Existe  una  jerarquía  de  servicios  que  se  pueden  ofrecer  en  la  nube,  de  acuerdo  con  el  grado  de abstracción y tercerización que requiera la entidad usuaria. [6]
 
 
 Algunas de las características que se incluyen al hablar de modelos de servicio son : 
@@ -230,19 +232,19 @@ Algunas de las características que se incluyen al hablar de modelos de servicio
 #### Software como Servicio (SaaS)
 
 
-El término software como servicio se refiere esencialmente al software residente (instalado) en la nube, es  la  capa  superior  del  servicio.  En  este caso  el  usuario o la  entidad, contratan con  un proveedor una aplicación completa como servicio sin preocuparse por los detalles de otras capas mencionadas como la infraestructura, ó el sistema operativo ó la plataforma. El proveedor ofrece esta aplicación como un servicio bajo demanda que puede ser usado por muchas entidades usuarias, es decir una sola instancia del  software corre en la infraestructura del proveedor y sirve a múltiples organizaciones clientes. El SaaS es un modelo de software basado en la Web que proporciona el software totalmente disponible a través de un navegador web. Las aplicaciones son accesibles desde diferentes dispositivos cliente a través de una interfaz cliente ligera tal como un navegador.
+El término software como servicio se refiere esencialmente al software residente (instalado) en la nube, es  la  capa  superior  del  servicio.  En  este caso  el  usuario o la  entidad, contratan con  un proveedor una aplicación completa como servicio sin preocuparse por los detalles de otras capas mencionadas como la infraestructura, ó el sistema operativo ó la plataforma. El proveedor ofrece esta aplicación como un servicio bajo demanda que puede ser usado por muchas entidades usuarias, es decir una sola instancia del  software corre en la infraestructura del proveedor y sirve a múltiples organizaciones clientes. El SaaS es un modelo de software basado en la Web que proporciona el software totalmente disponible a través de un navegador web. Las aplicaciones son accesibles desde diferentes dispositivos cliente a través de una interfaz cliente ligera tal como un navegador. [5]
 
 
 #### Plataforma como Servicio (PaaS)
 
 
-Es la capa intermedia del servicio en la nube. En este caso el usuario o entidad, contrata con un proveedor de servicios la infraestructura, el sistema  operativo y las plataformas  contenedoras de aplicaciones y de servicios de Internet, así como lenguajes de programación. La parte aplicativa no es contratada y debe ser instalada por la  entidad usuaria. Este modelo permite el desarrollo y programación de aplicaciones de software, dado el bajo coste y la rápida oportunidad que ofrecen los canales establecidos para la comercialización a clientes. Los sistemas PaaS son muy útiles ya que facilitan a los desarrolladores y empresas innovadoras pequeñas, desplegar aplicaciones basadas en la web sin el coste y complejidad que supondría la compra de servidores y sus correspondientes configuraciones y puestos en funcionamiento.
+Es la capa intermedia del servicio en la nube. En este caso el usuario o entidad, contrata con un proveedor de servicios la infraestructura, el sistema  operativo y las plataformas  contenedoras de aplicaciones y de servicios de Internet, así como lenguajes de programación. La parte aplicativa no es contratada y debe ser instalada por la  entidad usuaria. Este modelo permite el desarrollo y programación de aplicaciones de software, dado el bajo coste y la rápida oportunidad que ofrecen los canales establecidos para la comercialización a clientes. Los sistemas PaaS son muy útiles ya que facilitan a los desarrolladores y empresas innovadoras pequeñas, desplegar aplicaciones basadas en la web sin el coste y complejidad que supondría la compra de servidores y sus correspondientes configuraciones y puestos en funcionamiento. [5]
 
 
 #### Infraestructura como Servicio (IaaS)
 
 
-Es la capa inferior de servicio, este modelo ofrece espacio de almacenamiento, capacidad de proceso, servidores y otro equipamiento físico. Puede incluir también, la entrega de sistemas operativos y tecnología de virtualización para gestionar los recursos. El servidor reside en algún Data Center que ofrece servicios en la nube y generalmente es un   servidor virtual obtenido de compartir un servidor de gran capacidad con otros usuarios,particionado el mismo mediante un sistema operativo que permite configurar máquinas virtuales, adicionando un aplicativo de gestión y aprovisionamiento de los recursos de cómputo, de red y de seguridad. El consumidor no gestiona ni controla la infraestructura fundamental de la nube, pero tiene el control sobre sistemas operativos, almacenamiento y aplicaciones desplegadas y es posible un control limitado de componentes seleccionados de red y correos. El gran problema, coincidente con los otros modelos, pero más acusada, es la seguridad de los datos y la privacidad. 
+Es la capa inferior de servicio, este modelo ofrece espacio de almacenamiento, capacidad de proceso, servidores y otro equipamiento físico. Puede incluir también, la entrega de sistemas operativos y tecnología de virtualización para gestionar los recursos. El servidor reside en algún Data Center que ofrece servicios en la nube y generalmente es un   servidor virtual obtenido de compartir un servidor de gran capacidad con otros usuarios,particionado el mismo mediante un sistema operativo que permite configurar máquinas virtuales, adicionando un aplicativo de gestión y aprovisionamiento de los recursos de cómputo, de red y de seguridad. El consumidor no gestiona ni controla la infraestructura fundamental de la nube, pero tiene el control sobre sistemas operativos, almacenamiento y aplicaciones desplegadas y es posible un control limitado de componentes seleccionados de red y correos. El gran problema, coincidente con los otros modelos, pero más acusada, es la seguridad de los datos y la privacidad. [5]
 
 
 ## Análisis de Resultados
@@ -322,7 +324,7 @@ Finalmente, como era esperar, un 95% de las personas se encuentran de acuerdo a 
 | Precio del servicio por mes               | $225                                                                                                                | $159                                                                                          | $126                                                                            |
 
 
-Tabla 1: Comparación sobre los beneficios obtenidos por los tres grandes proveedores de servicios de la computación en la nube y sus respectivos precios. 
+Tabla 1: Comparación sobre los beneficios obtenidos por los tres grandes proveedores de servicios de la computación en la nube y sus respectivos precios. [7],[8]
 
 
 |                        Proveedor                       | Amazon Web Services                                                                                                     | Microsoft Azure                                                                                                                                                                                                                                                 | Google Cloud Platform                                      |
@@ -338,7 +340,7 @@ Tabla 1: Comparación sobre los beneficios obtenidos por los tres grandes provee
 | Devops                                                 | AWS CodeBuild / AWS Cloud9 / AWS Code Star / AWS CodeCommit / AWS CodeDeploy / AWS CodePipeline / AWS X-Ray             | Visual Studio Team Services / Proyectos de VSTS                                                                                                                                                                                                                 | Repositorios de origen en la nube/  Compilación en la nube |
 
 
-Tabla 2: Comparación sobre las herramientas de desarrollo de los proveedores de servicios de la computación en la nube. 
+Tabla 2: Comparación sobre las herramientas de desarrollo de los proveedores de servicios de la computación en la nube. [7],[8]
 
 
 Respecto comparación sobre los beneficios obtenidos  por los tres grandes proveedores de servicios se puede visualizar que AWS tiene gran cantidad de sistemas operativos y ofrece una variedad un poco más amplia que los demás proveedores, pero también se tiene que tomar en cuenta que el precio mensual es el más elevado respecto a los demás, entonces dependiendo de las necesidades del cliente y algunas otras características importantes específicas de cada uno de los proveedores, van a optar por obtener el servicio de AWS. Por otra parte tenemos a Google Cloud Platform que respecto a los otros proveedores es el más limitado en los sistemas operativos pero, por otra parte se debe de tomar en cuenta que este proveedor es el más económico de estos tres. 
@@ -375,7 +377,19 @@ Después de un profundo análisis de la encuesta, se logra visualizar cómo las 
 [3] Gustavo, B. (2020). ¿Que es un hosting? Hosting web explicado para principiantes. Hostinger tutoriales. Recuperado de: [Visitar](https://www.hostinger.mx/tutoriales/que-es-un-hosting)
 
 
-[4] Conceptodefinicion.de, Redacción. ( Última edición:18 de julio del 2019). Definición de Dominio. Recuperado de: //conceptodefinicion.de/dominio/. Recuperado de: [Visitar](https://conceptodefinicion.de/dominio/)
+[4] Conceptodefinicion.de, Redacción. ( Última edición:18 de julio del 2019). Definición de Dominio. Recuperado de: Recuperado de: [Visitar](https://conceptodefinicion.de/dominio/)
+
+
+[5] P. Mell, T. Grance, “The NIST Definition of Cloud Computing”, National Institute of Standards and Technology, NIST Special Publication 800-145, 2011. 
+
+
+[6] A.T. Velte, T. J. Velte, R. Elsenpeter, Cloud Computing: A Practical Approach, New York: McGraw Hill, 2010. 
+
+
+[7] E. Jones. Cuota de mercado de la nube – una mirada al ecosistema de la nube en 2020, marzo 2020. Recuperado de: [Visitar](https://kinsta.com/es/blog/cuota-de-mercado-de-la-nube/)
+
+
+[8] J. Gupta.Cloud services comparison tool – AWS Vs Google Vs IBM Vs Microsoft, marzo 2020. Recuperado de: [Visitar](https://wire19.com/cloud-services-comparison-tool-aws-vs-google-vs-ibm-vs-microsoft/)
 
 
 ## Anexos
