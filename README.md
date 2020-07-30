@@ -161,7 +161,6 @@ Se refiere a la posibilidad de que un servicio pueda ser aprovechado por más de
 Son servicios en la nube los cuales están diseñados para el manejo de volúmenes grandes de datos con el fin de almacenarlos o gestionarlos con más fácil y seguridad. [2]
 
 
-
 #### CDNs
 
 
@@ -171,7 +170,7 @@ Redes de entregas de contenido, son beneficiosas para alojar archivos grandes, c
 #### Hosting
 
 
-  Servicio web que permite publicar un sitio o una aplicación web en internet, básicamente en lo que consiste es en alquilar un espacio en un servidor con el fin de poder acceder o dar acceso a lo que estamos publicando. [3]
+Servicio web que permite publicar un sitio o una aplicación web en internet, básicamente en lo que consiste es en alquilar un espacio en un servidor con el fin de poder acceder o dar acceso a lo que estamos publicando. [3]
 
 
 #### Dominio
