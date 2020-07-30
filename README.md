@@ -348,6 +348,18 @@ Respecto comparación sobre los beneficios obtenidos  por los tres grandes prove
 Las herramientas de desarrollo de los  proveedores de servicios de la computación en la nube son de suma importancia  y en algunos casos son determinantes para la elección de un proveedor de servicio u otro. Y por medio de la información obtenida se puede observar que los dos proveedores que cuentan con mayor variedad de herramientas de desarrollo son AWS y Microsoft Azure, pero como anteriormente se mencionaba a la hora de elegir un proveedor de servicios se deben de evaluar varios aspectos importantes como lo son el conjunto de características y beneficios de cada uno de los proveedores. Por lo que se afirmar que a pesar de la variedad de características la elección de un proveedor de servicio va a depender de las necesidades y presupuesto del cliente.
 
 
+### Desarrollo de la Aplicación PaaS
+
+
+Se implementó una Aplicación de Servicios encargada de crear un servidor, mediante la incorporación un plan de servicios dentro de un paquete de recursos de Microsoft Azure. Dicha aplicación, permite visualizar, a través de una plataforma simple , una página web la cual permite añadir, editar y eliminar la información que se desee de manera que dicho medio, simule ser un conocido servicio web mediante un proyecto autogenerado de tipo html. Azure brinda la posibilidad de adquirir un licencia de 60 minutos gratis de consultas, la cual consiste en que por cada tiempo consumido en una llamada al servicio, esta decrementa la cantidad de tiempo restante de su consumo total diario.
+
+
+[!](https://github.com/NachoGranados/ITCR.DATOS1.Investigacion/blob/master/Video/PaaS.mp4)
+
+
+[Video Demostrativo de la Aplicación Paas](https://github.com/NachoGranados/ITCR.DATOS1.Investigacion/blob/master/Video/PaaS.mp4)
+
+
 ## Conclusiones
 
 
